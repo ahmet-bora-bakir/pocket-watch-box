@@ -1,4 +1,4 @@
-# pocket-watch-case#
+# pocket-watch-case
 A custom-designed storage and protection solution for pocket watches, featuring two different lid mechanisms to suit your preference.
 
 ---
